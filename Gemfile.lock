@@ -1,0 +1,9 @@
+GEM
+  specs:
+    test-unit (2.3.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  test-unit
